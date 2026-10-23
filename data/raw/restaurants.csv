@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,cuisine,city,restaurant_rating,average_prep_time_minutes
+1,Restaurant_001,Fast Food,Delhi,4.5,25
+2,Restaurant_002,Indian,Chennai,4.6,34
+3,Restaurant_003,South Indian,Mumbai,3.2,36
+4,Restaurant_004,Indian,Hyderabad,3.3,29
+5,Restaurant_005,Indian,Mumbai,4.7,30
+6,Restaurant_006,Indian,Mumbai,2.6,36
+7,Restaurant_007,Mexican,Hyderabad,3.8,29
+8,Restaurant_008,Fast Food,Chennai,3.7,39
+9,Restaurant_009,Italian,Hyderabad,4.2,13
+10,Restaurant_010,Indian,Delhi,2.9,20
+11,Restaurant_011,Chinese,Delhi,4.2,13
+12,Restaurant_012,South Indian,Delhi,3.4,12
+13,Restaurant_013,Desserts,Bengaluru,4.0,24
+14,Restaurant_014,South Indian,Hyderabad,2.6,17
+15,Restaurant_015,Indian,Bengaluru,3.7,22
+16,Restaurant_016,South Indian,Mumbai,3.8,23
+17,Restaurant_017,Fast Food,Delhi,3.0,29
+18,Restaurant_018,Mexican,Bengaluru,2.8,39
+19,Restaurant_019,Chinese,Mumbai,3.0,36
+20,Restaurant_020,Desserts,Delhi,3.4,21
+21,Restaurant_021,Mexican,Delhi,2.7,20
+22,Restaurant_022,Indian,Chennai,4.9,33
+23,Restaurant_023,Chinese,Bengaluru,3.5,13
+24,Restaurant_024,Italian,Delhi,4.5,26
+25,Restaurant_025,Indian,Delhi,4.9,23
+26,Restaurant_026,Italian,Hyderabad,2.7,15
+27,Restaurant_027,Mexican,Delhi,4.1,29
+28,Restaurant_028,Desserts,Bengaluru,4.7,19
+29,Restaurant_029,Indian,Mumbai,4.1,15
+30,Restaurant_030,Fast Food,Bengaluru,3.6,30
+31,Restaurant_031,Desserts,Delhi,3.6,15
+32,Restaurant_032,South Indian,Mumbai,2.6,30
+33,Restaurant_033,Desserts,Delhi,3.8,15
+34,Restaurant_034,Chinese,Hyderabad,5.0,23
+35,Restaurant_035,South Indian,Bengaluru,4.9,35
+36,Restaurant_036,Desserts,Bengaluru,2.6,17
+37,Restaurant_037,Italian,Chennai,4.3,33
+38,Restaurant_038,Mexican,Mumbai,3.3,32
+39,Restaurant_039,Mexican,Bengaluru,4.8,37
+40,Restaurant_040,Mexican,Delhi,2.6,15
+41,Restaurant_041,Italian,Chennai,4.8,32
+42,Restaurant_042,Desserts,Hyderabad,4.6,39
+43,Restaurant_043,Desserts,Chennai,2.8,33
+44,Restaurant_044,Italian,Hyderabad,2.6,15
+45,Restaurant_045,South Indian,Hyderabad,4.6,35
+46,Restaurant_046,Italian,Bengaluru,2.9,13
+47,Restaurant_047,South Indian,Hyderabad,3.8,28
+48,Restaurant_048,Fast Food,Mumbai,4.8,25
+49,Restaurant_049,Mexican,Delhi,3.9,26
+50,Restaurant_050,Indian,Chennai,3.5,26
+51,Restaurant_051,Fast Food,Delhi,3.6,10
+52,Restaurant_052,Italian,Delhi,2.7,25
+53,Restaurant_053,Chinese,Delhi,4.9,39
+54,Restaurant_054,Chinese,Chennai,3.3,23
+55,Restaurant_055,Desserts,Delhi,3.0,18
+56,Restaurant_056,Indian,Hyderabad,3.2,40
+57,Restaurant_057,South Indian,Bengaluru,4.9,13
+58,Restaurant_058,Desserts,Chennai,2.7,25
+59,Restaurant_059,Indian,Mumbai,4.7,25
+60,Restaurant_060,Fast Food,Bengaluru,4.3,24
+61,Restaurant_061,Fast Food,Hyderabad,4.6,38
+62,Restaurant_062,Italian,Mumbai,4.9,23
+63,Restaurant_063,Fast Food,Bengaluru,4.6,40
+64,Restaurant_064,Italian,Hyderabad,4.9,12
+65,Restaurant_065,Mexican,Chennai,2.8,32
+66,Restaurant_066,Mexican,Hyderabad,4.5,28
+67,Restaurant_067,South Indian,Chennai,3.9,17
+68,Restaurant_068,Fast Food,Delhi,3.9,17
+69,Restaurant_069,Italian,Bengaluru,4.7,32
+70,Restaurant_070,Desserts,Delhi,4.9,29
+71,Restaurant_071,South Indian,Mumbai,4.3,28
+72,Restaurant_072,Desserts,Delhi,3.7,11
+73,Restaurant_073,South Indian,Delhi,3.6,28
+74,Restaurant_074,Italian,Bengaluru,3.5,40
+75,Restaurant_075,South Indian,Delhi,3.4,10
+76,Restaurant_076,Italian,Hyderabad,3.5,24
+77,Restaurant_077,Chinese,Delhi,2.7,25
+78,Restaurant_078,Mexican,Delhi,2.7,37
+79,Restaurant_079,Desserts,Hyderabad,4.4,18
+80,Restaurant_080,Mexican,Chennai,3.6,24
+81,Restaurant_081,Italian,Bengaluru,4.8,32
+82,Restaurant_082,Mexican,Bengaluru,4.0,11
+83,Restaurant_083,Italian,Chennai,2.6,34
+84,Restaurant_084,Fast Food,Delhi,2.9,35
+85,Restaurant_085,Italian,Hyderabad,3.0,32
+86,Restaurant_086,Mexican,Hyderabad,4.9,30
+87,Restaurant_087,Italian,Chennai,3.0,33
+88,Restaurant_088,Italian,Hyderabad,3.8,34
+89,Restaurant_089,Desserts,Mumbai,4.8,38
+90,Restaurant_090,Italian,Delhi,4.9,23
+91,Restaurant_091,Indian,Mumbai,3.1,24
+92,Restaurant_092,Italian,Mumbai,2.6,29
+93,Restaurant_093,Mexican,Delhi,2.9,15
+94,Restaurant_094,Indian,Hyderabad,2.7,36
+95,Restaurant_095,Italian,Delhi,3.0,33
+96,Restaurant_096,Chinese,Chennai,3.9,29
+97,Restaurant_097,Mexican,Bengaluru,4.8,19
+98,Restaurant_098,South Indian,Hyderabad,3.8,20
+99,Restaurant_099,Desserts,Bengaluru,4.1,23
+100,Restaurant_100,Italian,Bengaluru,3.0,30
