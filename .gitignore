@@ -14,3 +14,10 @@ __pycache__/
 # Editor and OS
 .vscode/
 .DS_Store
+
+
+# Raw datasets
+data/raw/
+
+# Virtual environment
+.venv/
