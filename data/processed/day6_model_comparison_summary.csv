@@ -1,0 +1,6 @@
+component,task,evidence,business_use,main_caution
+Customer segmentation,Unsupervised clustering,Saved customer cluster labels and profiles,Retention and customer engagement prioritization,Clusters are descriptive and depend on selected features and scaling
+Restaurant segmentation,Unsupervised clustering,Saved restaurant cluster labels and profiles,Identify groups for operational review,A cluster pattern does not prove the cause of poor performance
+Sentiment analysis,Text sentiment classification,VADER counts and Day 3 classifier results,Monitor common customer complaints,Repeated templates and class imbalance limit generalization
+Delivery-time prediction,Regression,"Saved Day 4 MAE, RMSE, and R-squared",Estimate delivery duration and review operational risk,Predictions depend on input feature quality and may not establish causes
+Demand forecasting,Hourly time-series forecasting,"Saved baseline, ARIMA, and Prophet metrics",Support capacity planning,Forecasts were nearly flat and did not capture demand spikes well
